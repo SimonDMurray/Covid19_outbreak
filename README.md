@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[SimonDMurray.github.io/data/](url) and ![Image](src)
+[SimonDMurray.github.io/data/](https://github.com/SimonDMurray/SimonDMurray.github.io/edit/master/data/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
