@@ -24,8 +24,11 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 ```
 
-[Data CSV](../tree/master/data/data.csv) 
-![Confirmed Cases Graph](https://github.com/SimonDMurray/SimonDMurray.github.io/tree/master/data/ConfirmedCases.png)
+[Data CSV](https://github.com/SimonDMurray/SimonDMurray.github.io/tree/master/data/data.csv)
+
+
+
+[Confirmed Cases Graph](https://github.com/SimonDMurray/SimonDMurray.github.io/tree/master/data/ConfirmedCases.png)
 
 
 
