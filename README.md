@@ -22,9 +22,12 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[SimonDMurray.github.io/data/](https://github.com/SimonDMurray/SimonDMurray.github.io/edit/master/data/) and ![Image](src)
 ```
+
+[Data CSV](../tree/master/data/data.csv) 
+![Confirmed Cases Graph](https://github.com/SimonDMurray/SimonDMurray.github.io/tree/master/data/ConfirmedCases.png)
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
