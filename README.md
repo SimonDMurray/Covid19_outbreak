@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 
 
-![Confirmed Cases Graph](https://github.com/SimonDMurray/SimonDMurray.github.io/tree/master/data/ConfirmedCases.png)
+![Confirmed Cases Graph](https://github.com/SimonDMurray/SimonDMurray.github.io/blob/master/data/Confirmed%20Cases.png?raw=true)
 
 
 
