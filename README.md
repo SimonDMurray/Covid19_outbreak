@@ -1,6 +1,6 @@
 # Simon Murray ItSE Coursework
 
-### Coronavirus Data Folder
+### Coronavirus Data Folder:
 
 [Data](https://github.com/SimonDMurray/SimonDMurray.github.io/tree/master/data/)
 
