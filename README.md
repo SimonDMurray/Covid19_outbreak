@@ -25,3 +25,23 @@
 
 
 ![Recovered Graph](https://github.com/SimonDMurray/SimonDMurray.github.io/blob/master/data/Recovered.png?raw=true)
+
+### Daily New Confirmed Cases Data
+[Confirmed Cases Daily CSV](https://github.com/SimonDMurray/SimonDMurray.github.io/blob/master/data/ConfirmedCases_daily_new_cases.csv)
+
+![Confirmed Daily Graph](https://github.com/SimonDMurray/SimonDMurray.github.io/blob/master/data/ConfirmedCases_daily_new_cases.png?raw=true)
+
+### Daily New Deaths Data
+
+[Deaths Daily CSV](https://github.com/SimonDMurray/SimonDMurray.github.io/blob/master/data/Deaths_daily_new_cases.csv)
+
+![Deaths Daily Graph](https://github.com/SimonDMurray/SimonDMurray.github.io/blob/master/data/Deaths_daily_new_cases.png?raw=true)
+
+### Daily New Recovered Data
+
+[Recovered Daily CSV](https://github.com/SimonDMurray/SimonDMurray.github.io/blob/master/data/Recovered_daily_new_cases.csv)
+
+![Recovered Daily Graph](https://github.com/SimonDMurray/SimonDMurray.github.io/blob/master/data/Recovered_daily_new_cases.png?raw=true)
+
+
+
